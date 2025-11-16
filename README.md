@@ -1,6 +1,9 @@
 # 🎨 Gerador de Paletas de Cores
 
-![Mockup do Projeto](https://i.postimg.cc/sgYTrj9z/Chat-GPT-Image-16-de-nov-de-2025-15-14-38.png)
+<p align="center">
+  <img src="https://i.postimg.cc/sgYTrj9z/Chat-GPT-Image-16-de-nov-de-2025-15-14-38.png" width="350">
+</p>
+
 
 Um gerador interativo de paletas criado com HTML, CSS e JavaScript.  
 Com ele você pode criar paletas aleatórias, copiar as cores com um clique e salvar suas paletas favoritas!
